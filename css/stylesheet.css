@@ -1,0 +1,71 @@
+* {
+    <!--background: darkcyan;-->
+    font-family: "JetBrains Mono ExtraBold", cursive;
+}
+
+body {
+    background: darkred;
+    border: solid black 1px;
+}
+
+div {
+    padding: 10px 10px 10px 10px;
+    border: solid black 1px;
+    background: white;
+    text-align: center;
+}
+
+.headerName {
+    font-size: 25px;
+    background: #84c225;
+}
+a, .header{
+    background: #84c225;
+
+    color: white;
+    text-align: center;
+}
+.encabezado {
+
+    background: #b5da7c;
+
+
+    font-style:normal;
+    font-weight:bold;
+    font-size: 20px;
+    line-height: 100%;
+    text-align: center;
+    color: white;
+}
+.titulo_negrita {
+    background: white;
+    text-align: center;
+    font-size: 30px;
+}
+.logoColor {
+
+    width:30%;
+    height: 100%;
+
+}
+.parrafo {
+    <!--
+    position: absolute;
+    width:100%;
+    height: 100%;
+    left: 1046px;
+    top: 699px;
+
+    font-style:normal;
+    font-weight: 100%;
+    font-size: 20px;
+    line-height: 100%;
+    text-align: center;
+
+    color: #000000;
+    -->
+}
+
+.formulario {
+    text-align: left;
+}
